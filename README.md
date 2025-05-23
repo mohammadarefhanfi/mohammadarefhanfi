@@ -1,4 +1,4 @@
-## AslamAlikom 👋! My name is khalid and I'm Full stack web developer from Afghanistan
+## AslamAlikom 👋! My name is Mohammad Aref and I'm Full stack web developer from Afghanistan
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohammadaref.hanpy) 
 
